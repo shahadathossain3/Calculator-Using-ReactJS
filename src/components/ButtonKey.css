@@ -1,0 +1,25 @@
+.input-form{
+  margin-top: 30px;
+  height:50px;
+  width: 400px;
+  text-align: center;
+
+}
+
+.button-all-key{
+  padding-top:15px;
+  height:50%;
+}
+
+.AC{
+  height:50px;
+  width:200px;
+  margin:5px;
+}
+
+.button-key{
+  height:50px;
+  width:100px;
+  margin-right:5px;
+  margin-top: 5px;
+}
