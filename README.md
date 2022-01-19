@@ -10,7 +10,7 @@ git clone https://github.com/shahadathossain3/Calculator-Using-ReactJS.git
 
 
 ```
-install npm
+npm install
 ```
 
 ## npm start
